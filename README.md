@@ -3,7 +3,7 @@
 
 基于OU过程的TICK price模拟
 
-
+ 
 pip install quantaxis-randomprice
 
 
